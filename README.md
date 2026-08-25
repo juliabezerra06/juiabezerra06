@@ -1,26 +1,51 @@
-# Olá! Eu sou Júlia Oliveira 👋
+# 👋 Olá! Eu sou Júlia Oliveira
 
-### 👩‍💻 Quem sou eu
+🎓 **Estudante de Ciência da Computação**
 
-Sou estudante de **Ciência da Computação**, atualmente no início da minha jornada na área de tecnologia.
+---
 
-Estou desenvolvendo minha base em programação e lógica de programação, buscando aprender cada vez mais sobre desenvolvimento de software e tecnologia. Tenho interesse em aprimorar minhas habilidades, colocar meus conhecimentos em prática e construir meus primeiros projetos ao longo da faculdade.
+## 👩‍💻 Quem sou eu
 
-### 📚 Atualmente estudando
+Sou estudante de **Ciência da Computação** e estou no início da minha jornada na área de tecnologia.
 
-- Ciência da Computação
-- Lógica de programação
-- Fundamentos de programação
-- Desenvolvimento de habilidades na área de tecnologia
+Atualmente, estou desenvolvendo minha base em programação e conhecendo diferentes tecnologias durante minha formação. Tenho interesse em aprender cada vez mais sobre desenvolvimento de software e colocar meus conhecimentos em prática através de projetos.
 
-### 🚀 Projetos
+---
 
-Ainda não possuo projetos publicados, mas estou começando minha jornada na programação e pretendo compartilhar aqui meus futuros projetos acadêmicos e pessoais.
+## 🛠️ Linguagens e Ferramentas
 
-### 📫 Como me encontrar
+📚 **Atualmente estudando:**
 
-📧 **E-mail:** julia.bezerra06@gmail.com
+- 🌐 HTML
+- 🎨 CSS
+- 💻 Linguagem C
 
-💼 **LinkedIn:** [linkedin.com/in/juliabezerra06](https://linkedin.com/in/juliabezerra06)
+---
 
-🐙 **GitHub:** [github.com/juliabezzera06](https://github.com/juliabezzera06)
+## 🚀 Projetos em Destaque
+
+📌 **Em breve!**
+
+Ainda não possuo projetos publicados, mas pretendo compartilhar aqui meus futuros projetos acadêmicos e pessoais desenvolvidos durante minha jornada em Ciência da Computação.
+
+---
+
+## 📚 Atualmente estudando
+
+🎓 Ciência da Computação  
+🌐 HTML e CSS  
+💻 Linguagem C  
+🧠 Lógica de Programação  
+
+---
+
+## 📫 Como me encontrar
+
+📧 **E-mail:**  
+[![Email](https://img.shields.io/badge/Email-julia.bezerra06%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julia.bezerra06@gmail.com)
+
+💼 **LinkedIn:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Júlia%20Oliveira-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliabezerra06)
+
+🐙 **GitHub:**  
+[![GitHub](https://img.shields.io/badge/GitHub-juliabezzera06-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliabezzera06)
