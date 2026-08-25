@@ -1,3 +1,5 @@
+
+
 # 👋 Olá! Eu sou Júlia Oliveira
 
 🎓 **Estudante de Ciência da Computação**
@@ -49,3 +51,6 @@ Ainda não possuo projetos publicados, mas pretendo compartilhar aqui meus futur
 
 🐙 **GitHub:**  
 [![GitHub](https://img.shields.io/badge/GitHub-juliabezzera06-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juliabezzera06)
+
+🔗 **Linktree:**  
+[![Linktree](https://img.shields.io/badge/Linktree-juliabezerra06-39e09b?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/juliabezerra06)
